@@ -1,0 +1,401 @@
+text,predicted_label
+Produk standard.,Positif
+Kemasan keren.,Positif
+Aplikasi ukuran sedang.,Negatif
+Fitur mahal tapi jelek.,Negatif
+Layanan keren.,Positif
+Admin keren.,Positif
+Kurir memuaskan.,Positif
+Kemasan cepat.,Positif
+Produk standard.,Positif
+Produk buruk sekali.,Negatif
+Produk parah.,Negatif
+Fitur sedang dicoba.,Negatif
+Kemasan mengecewakan.,Negatif
+Fitur rusak.,Negatif
+Kurir buruk sekali.,Negatif
+Aplikasi mengecewakan.,Negatif
+Aplikasi buruk sekali.,Negatif
+Fitur buruk sekali.,Negatif
+Barang warna putih.,Netral
+Layanan cepat.,Positif
+Layanan mengecewakan.,Negatif
+Admin parah.,Negatif
+Admin kasar.,Negatif
+Aplikasi standard.,Positif
+Aplikasi sangat bagus.,Positif
+Barang luar biasa.,Negatif
+Kurir biasa saja.,Negatif
+Toko memuaskan.,Positif
+Makanan biasa saja.,Negatif
+Barang mengecewakan.,Negatif
+Admin lambat.,Negatif
+Makanan memuaskan.,Positif
+Layanan warna putih.,Netral
+Kemasan kasar.,Negatif
+Admin mengecewakan.,Negatif
+Toko error.,Negatif
+Layanan rusak.,Negatif
+Makanan buruk sekali.,Negatif
+Toko mahal tapi jelek.,Negatif
+Produk sangat bagus.,Positif
+Fitur mahal tapi jelek.,Negatif
+Aplikasi sedang dicoba.,Negatif
+Fitur sedang dicoba.,Negatif
+Produk rusak.,Negatif
+Makanan cepat.,Positif
+Kemasan mahal tapi jelek.,Negatif
+Barang keren.,Positif
+Kurir sedang dicoba.,Negatif
+Kemasan parah.,Negatif
+Aplikasi sangat bagus.,Positif
+Makanan sangat bagus.,Positif
+Kurir buruk sekali.,Negatif
+Toko standard.,Positif
+Kemasan ukuran sedang.,Netral
+Makanan mahal tapi jelek.,Negatif
+Fitur sedang dicoba.,Negatif
+Produk kasar.,Negatif
+Produk luar biasa.,Positif
+Barang lambat.,Negatif
+Toko rusak.,Negatif
+Fitur standard.,Negatif
+Admin cepat.,Positif
+Makanan cepat.,Positif
+Admin keren.,Positif
+Admin recomended banget.,Positif
+Makanan mantap.,Positif
+Kemasan lambat.,Negatif
+Toko warna putih.,Negatif
+Fitur parah.,Negatif
+Kemasan buruk sekali.,Negatif
+Aplikasi parah.,Negatif
+Aplikasi mantap.,Positif
+Aplikasi luar biasa.,Negatif
+Aplikasi rusak.,Negatif
+Admin kasar.,Negatif
+Produk mengecewakan.,Negatif
+Kurir standard.,Positif
+Barang kasar.,Negatif
+Kemasan warna putih.,Positif
+Kemasan memuaskan.,Positif
+Kurir biasa saja.,Negatif
+Barang keren.,Positif
+Toko parah.,Negatif
+Toko sudah diterima.,Negatif
+Kemasan rusak.,Negatif
+Layanan standard.,Positif
+Kemasan error.,Negatif
+Produk warna putih.,Positif
+Layanan cepat.,Positif
+Layanan lambat.,Negatif
+Barang biasa saja.,Negatif
+Produk error.,Negatif
+Kemasan sangat bagus.,Positif
+Kemasan lambat.,Negatif
+Admin sedang dicoba.,Negatif
+Kurir recomended banget.,Positif
+Aplikasi biasa saja.,Negatif
+Fitur cepat.,Positif
+Barang mahal tapi jelek.,Negatif
+Kurir sangat bagus.,Positif
+Admin parah.,Negatif
+Layanan buruk sekali.,Negatif
+Toko memuaskan.,Positif
+Toko rusak.,Negatif
+Kemasan lambat.,Negatif
+Toko memuaskan.,Positif
+Produk buruk sekali.,Negatif
+Admin cepat.,Positif
+Fitur rusak.,Negatif
+Toko sedang dicoba.,Negatif
+Admin sangat bagus.,Positif
+Makanan lambat.,Negatif
+Aplikasi rusak.,Negatif
+Aplikasi biasa saja.,Negatif
+Barang rusak.,Negatif
+Admin keren.,Positif
+Admin standard.,Negatif
+Toko rusak.,Negatif
+Kurir mahal tapi jelek.,Negatif
+Produk parah.,Negatif
+Layanan rusak.,Negatif
+Makanan keren.,Positif
+Kemasan buruk sekali.,Negatif
+Aplikasi warna putih.,Negatif
+Kemasan memuaskan.,Positif
+Layanan mengecewakan.,Negatif
+Produk buruk sekali.,Negatif
+Produk kasar.,Negatif
+Makanan sangat bagus.,Positif
+Barang recomended banget.,Positif
+Aplikasi luar biasa.,Negatif
+Kemasan mahal tapi jelek.,Negatif
+Admin error.,Negatif
+Produk buruk sekali.,Negatif
+Kemasan buruk sekali.,Negatif
+Admin warna putih.,Negatif
+Admin ukuran sedang.,Netral
+Kurir mengecewakan.,Negatif
+Aplikasi luar biasa.,Negatif
+Kurir warna putih.,Netral
+Admin memuaskan.,Positif
+Produk standard.,Positif
+Aplikasi memuaskan.,Positif
+Barang recomended banget.,Positif
+Kurir keren.,Positif
+Toko lambat.,Negatif
+Produk recomended banget.,Positif
+Fitur kasar.,Negatif
+Layanan kasar.,Negatif
+Kemasan cepat.,Positif
+Makanan lambat.,Negatif
+Aplikasi standard.,Positif
+Makanan error.,Negatif
+Produk lambat.,Negatif
+Aplikasi sedang dicoba.,Negatif
+Produk lambat.,Negatif
+Toko lambat.,Negatif
+Kemasan keren.,Positif
+Toko recomended banget.,Positif
+Fitur biasa saja.,Negatif
+Fitur ramah.,Positif
+Fitur rusak.,Negatif
+Layanan memuaskan.,Positif
+Fitur parah.,Negatif
+Aplikasi recomended banget.,Positif
+Makanan ramah.,Positif
+Kurir sangat bagus.,Positif
+Kemasan warna putih.,Positif
+Fitur mahal tapi jelek.,Negatif
+Toko parah.,Negatif
+Aplikasi sangat bagus.,Positif
+Layanan ukuran sedang.,Negatif
+Kurir standard.,Positif
+Admin mengecewakan.,Negatif
+Layanan ramah.,Positif
+Barang lambat.,Negatif
+Kemasan recomended banget.,Positif
+Admin luar biasa.,Negatif
+Kemasan warna putih.,Positif
+Admin error.,Negatif
+Produk mahal tapi jelek.,Negatif
+Admin biasa saja.,Negatif
+Fitur keren.,Positif
+Fitur sangat bagus.,Positif
+Produk ukuran sedang.,Positif
+Kurir mahal tapi jelek.,Negatif
+Fitur kasar.,Negatif
+Fitur sedang dicoba.,Negatif
+Aplikasi rusak.,Negatif
+Admin sangat bagus.,Positif
+Layanan sangat bagus.,Positif
+Admin warna putih.,Negatif
+Toko mantap.,Positif
+Kurir recomended banget.,Positif
+Kurir mahal tapi jelek.,Negatif
+Produk sedang dicoba.,Negatif
+Admin standard.,Negatif
+Kemasan ramah.,Positif
+Makanan mahal tapi jelek.,Negatif
+Admin sedang dicoba.,Negatif
+Layanan warna putih.,Netral
+Aplikasi biasa saja.,Negatif
+Fitur mahal tapi jelek.,Negatif
+Produk sangat bagus.,Positif
+Kemasan parah.,Negatif
+Toko biasa saja.,Negatif
+Makanan luar biasa.,Negatif
+Fitur parah.,Negatif
+Makanan biasa saja.,Negatif
+Layanan parah.,Negatif
+Toko sedang dicoba.,Negatif
+Makanan warna putih.,Negatif
+Produk sangat bagus.,Positif
+Toko ramah.,Positif
+Produk sangat bagus.,Positif
+Layanan keren.,Positif
+Makanan luar biasa.,Negatif
+Kurir sudah diterima.,Negatif
+Barang memuaskan.,Positif
+Kemasan mengecewakan.,Negatif
+Aplikasi error.,Negatif
+Kemasan luar biasa.,Positif
+Kemasan mengecewakan.,Negatif
+Aplikasi memuaskan.,Positif
+Makanan warna putih.,Negatif
+Barang sudah diterima.,Negatif
+Kemasan keren.,Positif
+Makanan sangat bagus.,Positif
+Barang ramah.,Positif
+Fitur sedang dicoba.,Negatif
+Kemasan standard.,Positif
+Layanan mahal tapi jelek.,Negatif
+Fitur mengecewakan.,Negatif
+Aplikasi sangat bagus.,Positif
+Kurir error.,Negatif
+Produk warna putih.,Positif
+Aplikasi kasar.,Negatif
+Kemasan ramah.,Positif
+Kemasan mahal tapi jelek.,Negatif
+Aplikasi standard.,Positif
+Layanan mengecewakan.,Negatif
+Barang sudah diterima.,Negatif
+Barang sudah diterima.,Negatif
+Makanan luar biasa.,Negatif
+Fitur lambat.,Negatif
+Layanan recomended banget.,Positif
+Layanan buruk sekali.,Negatif
+Barang recomended banget.,Positif
+Layanan lambat.,Negatif
+Toko buruk sekali.,Negatif
+Kemasan cepat.,Positif
+Layanan sangat bagus.,Positif
+Makanan kasar.,Negatif
+Kurir kasar.,Negatif
+Fitur parah.,Negatif
+Kemasan keren.,Positif
+Produk mahal tapi jelek.,Negatif
+Admin error.,Negatif
+Toko standard.,Positif
+Produk kasar.,Negatif
+Admin cepat.,Positif
+Barang standard.,Positif
+Layanan mantap.,Positif
+Admin lambat.,Negatif
+Admin sudah diterima.,Negatif
+Layanan luar biasa.,Positif
+Makanan sangat bagus.,Positif
+Kemasan mantap.,Positif
+Produk ukuran sedang.,Positif
+Kemasan rusak.,Negatif
+Kemasan ramah.,Positif
+Layanan warna putih.,Netral
+Kurir luar biasa.,Positif
+Makanan luar biasa.,Negatif
+Kurir sangat bagus.,Positif
+Produk mantap.,Positif
+Layanan sudah diterima.,Negatif
+Kemasan standard.,Positif
+Kurir keren.,Positif
+Fitur lambat.,Negatif
+Makanan parah.,Negatif
+Makanan luar biasa.,Negatif
+Produk ramah.,Positif
+Makanan luar biasa.,Negatif
+Produk parah.,Negatif
+Toko recomended banget.,Positif
+Fitur mantap.,Positif
+Produk cepat.,Positif
+Barang kasar.,Negatif
+Produk parah.,Negatif
+Layanan buruk sekali.,Negatif
+Aplikasi buruk sekali.,Negatif
+Barang buruk sekali.,Negatif
+Kemasan rusak.,Negatif
+Fitur parah.,Negatif
+Admin rusak.,Negatif
+Produk parah.,Negatif
+Kurir recomended banget.,Positif
+Makanan warna putih.,Negatif
+Kemasan keren.,Positif
+Toko keren.,Positif
+Kemasan ukuran sedang.,Netral
+Produk recomended banget.,Positif
+Produk luar biasa.,Positif
+Barang mahal tapi jelek.,Negatif
+Kemasan lambat.,Negatif
+Admin rusak.,Negatif
+Admin parah.,Negatif
+Toko sudah diterima.,Negatif
+Aplikasi luar biasa.,Negatif
+Produk sudah diterima.,Negatif
+Aplikasi ramah.,Positif
+Layanan mahal tapi jelek.,Negatif
+Fitur cepat.,Positif
+Fitur keren.,Positif
+Produk mahal tapi jelek.,Negatif
+Produk mengecewakan.,Negatif
+Barang biasa saja.,Negatif
+Barang mantap.,Positif
+Layanan keren.,Positif
+Admin sedang dicoba.,Negatif
+Barang rusak.,Negatif
+Aplikasi biasa saja.,Negatif
+Fitur sudah diterima.,Negatif
+Aplikasi sangat bagus.,Positif
+Aplikasi sangat bagus.,Positif
+Aplikasi error.,Negatif
+Aplikasi buruk sekali.,Negatif
+Barang buruk sekali.,Negatif
+Kemasan mantap.,Positif
+Barang sudah diterima.,Negatif
+Fitur memuaskan.,Positif
+Admin biasa saja.,Negatif
+Produk ukuran sedang.,Positif
+Admin mengecewakan.,Negatif
+Aplikasi rusak.,Negatif
+Layanan buruk sekali.,Negatif
+Admin ramah.,Positif
+Layanan mengecewakan.,Negatif
+Makanan ramah.,Positif
+Admin ukuran sedang.,Netral
+Produk sedang dicoba.,Negatif
+Admin keren.,Positif
+Aplikasi keren.,Positif
+Admin memuaskan.,Positif
+Toko sangat bagus.,Positif
+Produk lambat.,Negatif
+Makanan ukuran sedang.,Negatif
+Kemasan standard.,Positif
+Barang sangat bagus.,Positif
+Makanan sudah diterima.,Negatif
+Barang luar biasa.,Negatif
+Barang cepat.,Positif
+Toko buruk sekali.,Negatif
+Barang sedang dicoba.,Negatif
+Admin mahal tapi jelek.,Negatif
+Admin sudah diterima.,Negatif
+Admin sangat bagus.,Positif
+Layanan lambat.,Negatif
+Admin error.,Negatif
+Fitur parah.,Negatif
+Aplikasi kasar.,Negatif
+Barang mantap.,Positif
+Makanan ramah.,Positif
+Barang sedang dicoba.,Negatif
+Barang warna putih.,Netral
+Layanan luar biasa.,Positif
+Kurir parah.,Negatif
+Fitur luar biasa.,Negatif
+Layanan biasa saja.,Negatif
+Kemasan warna putih.,Positif
+Kemasan mahal tapi jelek.,Negatif
+Produk sudah diterima.,Negatif
+Makanan standard.,Negatif
+Kemasan sudah diterima.,Negatif
+Makanan sedang dicoba.,Negatif
+Kurir sangat bagus.,Positif
+Barang sangat bagus.,Positif
+Barang mantap.,Positif
+Kemasan standard.,Positif
+Kemasan standard.,Positif
+Produk sangat bagus.,Positif
+Aplikasi keren.,Positif
+Kemasan mantap.,Positif
+Aplikasi rusak.,Negatif
+Barang error.,Negatif
+Toko rusak.,Negatif
+Kemasan kasar.,Negatif
+Kemasan error.,Negatif
+Aplikasi mahal tapi jelek.,Negatif
+Barang ukuran sedang.,Netral
+Layanan keren.,Positif
+Produk lambat.,Negatif
+Toko lambat.,Negatif
+Aplikasi cepat.,Positif
+Aplikasi standard.,Positif
+Fitur luar biasa.,Negatif
+Fitur sedang dicoba.,Negatif
+Makanan error.,Negatif
+Produk mantap.,Positif
